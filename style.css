@@ -18,11 +18,12 @@ body{
   position: relative;
   width: 800px;
   height: 800px;
-  border:2px solid #656565;
+  border:2px solid #23B3CA;
   border-radius: 50%;
-  /* background-image: url('images/fondo.jpg');
-  background-repeat:repeat; */
 }
+
+
+
 
 .container .icon{
   position: relative;
@@ -33,7 +34,6 @@ body{
   justify-content: center;
   align-items: center;
   cursor:pointer;
-
 }
 
 .container .icon .imgBx{
@@ -175,9 +175,9 @@ body{
 /* CAMBIAR FOTO DEL CENTRO */
 .contentBx .card .imgBx{
   position: relative;
-  top: 50px;
-  width: 480px;
-  height: 456px;
+  top: 30px;
+  width: 450px;
+  height: 426px;
   border-radius: 10px;
   overflow: hidden;
 }
