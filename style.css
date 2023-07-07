@@ -175,9 +175,9 @@ body{
 /* CAMBIAR FOTO DEL CENTRO */
 .contentBx .card .imgBx{
   position: relative;
-  top: 30px;
-  width: 460px;
-  height: 436px;
+  top: 35px;
+  width: 480px;
+  height: 456px;
   border-radius: 10px;
   overflow: hidden;
 }
