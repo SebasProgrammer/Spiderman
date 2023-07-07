@@ -175,7 +175,7 @@ body{
 /* CAMBIAR FOTO DEL CENTRO */
 .contentBx .card .imgBx{
   position: relative;
-  top: 35px;
+  top: 50px;
   width: 480px;
   height: 456px;
   border-radius: 10px;
