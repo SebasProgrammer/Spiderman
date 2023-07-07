@@ -51,7 +51,8 @@ body{
 }
 
 .container .icon .imgBx.active{
-  box-shadow: 0 0 0 6px #222, 0 0 0 12px #ff1d50 ;
+  box-shadow: 0 0 0 6px #222, 0 0 0 12px #EA5A68;
+  /* background-image: -webkit-linear-gradient(-45deg, rgb(238, 119, 82), rgb(231, 60, 126), rgb(35, 166, 213), rgb(35, 213, 171)); ; */
 }
 
 .imgBx img{
@@ -83,8 +84,8 @@ body{
 }
 .container .icon .imgBx.active img{
   /* filter: grayscale(0); */
-  width: 300px;
-  /* object-fit: cover; */
+  /* width: 300px; */
+  object-fit: cover;
   /* transform: rotate(360deg) */
 }
 
