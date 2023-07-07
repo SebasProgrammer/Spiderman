@@ -87,6 +87,16 @@ body{
   /* width: 300px; */
   object-fit: cover;
   /* transform: rotate(360deg) */
+  animation: animte_03 2s linear infinite;
+}
+
+@keyframes animte_03{
+  0%{
+    rotate: 0deg;
+  }
+  100%{
+    rotate: 360deg;
+  }
 }
 
 .content{
